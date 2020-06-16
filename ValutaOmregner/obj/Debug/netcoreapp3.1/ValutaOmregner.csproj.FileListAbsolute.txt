@@ -1,0 +1,9 @@
+C:\Users\mathi\source\repos\ValutaOmregner\ValutaOmregner\bin\Debug\netcoreapp3.1\ValutaOmregner.deps.json
+C:\Users\mathi\source\repos\ValutaOmregner\ValutaOmregner\bin\Debug\netcoreapp3.1\ValutaOmregner.dll
+C:\Users\mathi\source\repos\ValutaOmregner\ValutaOmregner\bin\Debug\netcoreapp3.1\ValutaOmregner.pdb
+C:\Users\mathi\source\repos\ValutaOmregner\ValutaOmregner\obj\Debug\netcoreapp3.1\ValutaOmregner.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\ValutaOmregner\ValutaOmregner\obj\Debug\netcoreapp3.1\ValutaOmregner.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\ValutaOmregner\ValutaOmregner\obj\Debug\netcoreapp3.1\ValutaOmregner.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\ValutaOmregner\ValutaOmregner\obj\Debug\netcoreapp3.1\ValutaOmregner.AssemblyInfo.cs
+C:\Users\mathi\source\repos\ValutaOmregner\ValutaOmregner\obj\Debug\netcoreapp3.1\ValutaOmregner.dll
+C:\Users\mathi\source\repos\ValutaOmregner\ValutaOmregner\obj\Debug\netcoreapp3.1\ValutaOmregner.pdb

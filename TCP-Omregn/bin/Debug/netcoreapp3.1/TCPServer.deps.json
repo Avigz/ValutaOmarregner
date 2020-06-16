@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TCPServer/1.0.0": {
+        "dependencies": {
+          "ValutaOmregner": "1.0.0"
+        },
+        "runtime": {
+          "TCPServer.dll": {}
+        }
+      },
+      "ValutaOmregner/1.0.0": {
+        "runtime": {
+          "ValutaOmregner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCPServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ValutaOmregner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

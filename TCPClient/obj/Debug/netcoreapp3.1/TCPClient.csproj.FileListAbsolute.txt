@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\ValutaOmregner\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.exe
+C:\Users\mathi\source\repos\ValutaOmregner\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.deps.json
+C:\Users\mathi\source\repos\ValutaOmregner\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.json
+C:\Users\mathi\source\repos\ValutaOmregner\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\ValutaOmregner\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.dll
+C:\Users\mathi\source\repos\ValutaOmregner\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.pdb
+C:\Users\mathi\source\repos\ValutaOmregner\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\ValutaOmregner\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\ValutaOmregner\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\ValutaOmregner\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfo.cs
+C:\Users\mathi\source\repos\ValutaOmregner\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.dll
+C:\Users\mathi\source\repos\ValutaOmregner\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.pdb
+C:\Users\mathi\source\repos\ValutaOmregner\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.genruntimeconfig.cache

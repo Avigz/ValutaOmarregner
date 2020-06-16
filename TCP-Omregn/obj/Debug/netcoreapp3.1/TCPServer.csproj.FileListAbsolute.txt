@@ -1,0 +1,16 @@
+C:\Users\mathi\source\repos\ValutaOmregner\TCP-Omregn\bin\Debug\netcoreapp3.1\TCPServer.exe
+C:\Users\mathi\source\repos\ValutaOmregner\TCP-Omregn\bin\Debug\netcoreapp3.1\TCPServer.deps.json
+C:\Users\mathi\source\repos\ValutaOmregner\TCP-Omregn\bin\Debug\netcoreapp3.1\TCPServer.runtimeconfig.json
+C:\Users\mathi\source\repos\ValutaOmregner\TCP-Omregn\bin\Debug\netcoreapp3.1\TCPServer.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\ValutaOmregner\TCP-Omregn\bin\Debug\netcoreapp3.1\TCPServer.dll
+C:\Users\mathi\source\repos\ValutaOmregner\TCP-Omregn\bin\Debug\netcoreapp3.1\TCPServer.pdb
+C:\Users\mathi\source\repos\ValutaOmregner\TCP-Omregn\bin\Debug\netcoreapp3.1\ValutaOmregner.dll
+C:\Users\mathi\source\repos\ValutaOmregner\TCP-Omregn\bin\Debug\netcoreapp3.1\ValutaOmregner.pdb
+C:\Users\mathi\source\repos\ValutaOmregner\TCP-Omregn\obj\Debug\netcoreapp3.1\TCPServer.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\ValutaOmregner\TCP-Omregn\obj\Debug\netcoreapp3.1\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\ValutaOmregner\TCP-Omregn\obj\Debug\netcoreapp3.1\TCPServer.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\ValutaOmregner\TCP-Omregn\obj\Debug\netcoreapp3.1\TCPServer.AssemblyInfo.cs
+C:\Users\mathi\source\repos\ValutaOmregner\TCP-Omregn\obj\Debug\netcoreapp3.1\TCPServer.csproj.CopyComplete
+C:\Users\mathi\source\repos\ValutaOmregner\TCP-Omregn\obj\Debug\netcoreapp3.1\TCPServer.dll
+C:\Users\mathi\source\repos\ValutaOmregner\TCP-Omregn\obj\Debug\netcoreapp3.1\TCPServer.pdb
+C:\Users\mathi\source\repos\ValutaOmregner\TCP-Omregn\obj\Debug\netcoreapp3.1\TCPServer.genruntimeconfig.cache
